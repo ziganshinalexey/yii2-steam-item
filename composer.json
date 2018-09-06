@@ -1,0 +1,14 @@
+{
+    "name": "ziganshinalexey/yii2-steam-item",
+    "description": "Подсистема управления предметами",
+    "license": "mit",
+    "require": {
+        "php": "^7.2.0",
+        "yiisoft/yii2": "^2.0.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ziganshinalexey\\Yii2SteamItem\\": ""
+        }
+    }
+}
